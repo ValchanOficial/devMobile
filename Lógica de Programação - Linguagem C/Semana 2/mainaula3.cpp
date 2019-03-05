@@ -10,7 +10,7 @@ int main(int argc, char** argv) {
 	printf("Digite o valor de x: ");
 	scanf("%d",&x);
 	
-	//Estruturade decisão
+	//Estrutura de decisão
 	if(n==x){
 		printf("Os numeros sao iguais!");
 	}else if(n>x){
