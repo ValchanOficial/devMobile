@@ -36,4 +36,4 @@ O código deve estar estar com cada uma de suas etapas comentadas. Por exemplo, 
 // OBJETIVO.......: Este loop é utilizado para pedir que um usuário digite valores que serão armazenados em um vetor  
 
 Veja na imagem abaixo um exemplo de como a tela deve ficar.
-![imagem projeto final](http://ead.ti.srt.ifsp.edu.br/pluginfile.php/48065/mod_assign/intro/1.png)
+![Exemplo](https://lh3.googleusercontent.com/suf5M9vVM4MH6BGHCPqmPqqLplMtnwgXA1Fg1MwLHATeDh8Jhou2jwG6mFaKDBSnC36QEUg_I5mt "Exemplo")
